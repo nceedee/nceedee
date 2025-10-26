@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 ### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:nceedeetechcompany.org@gmail.com"><img src="https://img.shields.io/badge/Email-nceedeetechcompany.org@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://github.com/nceedee"><img src="https://img.shields.io/badge/GitHub-N-Cee-Dee-Tech-Company-black?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in/nceedeetech"><img src="https://img.shields.io/badge/LinkedIn-N-Cee-Dee-Tech-Company-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/nceedee"><img src="https://img.shields.io/badge/GitHub-David-Nnaji-black?style=for-the-badge&logo=github"></a>
+  <a href="https://linkedin.com/in/nceedeetech"><img src="https://img.shields.io/badge/LinkedIn-David-Nnaji-Company-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
