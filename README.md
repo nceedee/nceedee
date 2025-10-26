@@ -1,24 +1,14 @@
-
 <!--
 **nceedee/nceedee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><h1 align="center">👨‍💻 David Nnaji</h1>
-<h3 align="center">Software Engineer | Founder of <strong>N Cee Dee Tech Company</strong> (BN 8950205)</h3>
+<h1 align="center">🚀 N Cee Dee Tech Company</h1>
+<h3 align="center">Software Engineering & Digital Solutions | BN 8950205</h3>
 
 <p align="center">
-  🚀 Passionate about building efficient, scalable, and user-friendly digital experiences.<br/>
-  🌍 Based in Nsukka, Nigeria — creating impact from anywhere.<br/>
-  💡 “Code. Create. Innovate.”
+  💡 Building efficient, scalable, and modern digital experiences.<br/>
+  🌍 Based in Nsukka, Nigeria — working remotely across the world.<br/>
+  🧠 “Code. Create. Innovate.”
 </p>
 
 ---
@@ -30,20 +20,20 @@ Here are some ideas to get you started:
 
 ---
 
-### ⚙️ About Me
-- 👨‍💻 Software Engineer focused on full-stack web and mobile development  
-- 💼 Founder of **N Cee Dee Tech Company (BN 8950205)**  
-- 💬 I love working with modern frameworks like **React**, **Next.js**, and **Node.js**  
-- 📚 Always exploring new technologies and clean coding principles  
-- 🌱 Currently improving performance optimization and backend scalability  
+### ⚙️ About Us
+- 👨‍💻 A software engineering brand delivering web and mobile solutions  
+- 💼 Registered as **N Cee Dee Tech Company (BN 8950205)**  
+- 💬 Skilled in **React**, **Next.js**, **Node.js**, and modern full-stack development  
+- ⚡ Focused on performance, innovation, and clean design  
+- 🌱 Continuously evolving with new technologies  
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect With Us
 <p align="center">
   <a href="mailto:nceedeetechcompany.org@gmail.com"><img src="https://img.shields.io/badge/Email-nceedeetechcompany.org@gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://github.com/nceedee"><img src="https://img.shields.io/badge/GitHub-David-Nnaji-black?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in/nceedeetech"><img src="https://img.shields.io/badge/LinkedIn-David-Nnaji-Company-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/nceedee"><img src="https://img.shields.io/badge/GitHub-N_Cee_Dee_Tech-black?style=for-the-badge&logo=github"></a>
+  <a href="https://linkedin.com/in/nceedeetech"><img src="https://img.shields.io/badge/LinkedIn-N_Cee_Dee_Tech_Company-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
